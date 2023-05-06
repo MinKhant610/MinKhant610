@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100064101549535](https://www.facebook.com/profile.php?id=100064101549535)
 
-- 💬 Ask me about **react, vue**
+- 💬 Ask me about **C++, Vue**
 
 - 📫 How to reach me **minkhantiopp@gmail.com**
 
