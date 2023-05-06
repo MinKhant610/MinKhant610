@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **minkhantiopp@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinKhant610&show_icons=true&theme=tokyonight)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/profile.php?id=100015322156303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100015322156303" height="30" width="40" /></a>
