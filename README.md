@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Min Khant</h1>
 <h3 align="center">Web Developer</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinKhant610&show_icons=true&theme=vue)
+
 - 🌱 I’m currently learning **React Larvel Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinKhant610](https://github.com/MinKhant610)
@@ -11,7 +13,6 @@
 
 - 📫 How to reach me **minkhantiopp@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinKhant610&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
