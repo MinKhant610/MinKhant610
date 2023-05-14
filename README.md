@@ -3,11 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinKhant610&show_icons=true&theme=vue)
 
-- 🌱 I’m currently learning **React Larvel Machine Learning**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinKhant610](https://github.com/MinKhant610)
-
-- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100064101549535](https://www.facebook.com/profile.php?id=100064101549535)
 
 - 💬 Ask me about **C++, Vue**
 
