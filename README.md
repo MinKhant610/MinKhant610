@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Khant</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinKhant610&show_icons=true&theme=vue)
 
