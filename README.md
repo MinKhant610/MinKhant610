@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Min Khant</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Mechtronics Engineering Student</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinKhant610&show_icons=true&theme=vue)
 
-- 🌱 I’m currently learning **Laravel Folio**
+- 🌱 I’m currently learning **Embedded Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinKhant610](https://github.com/MinKhant610)
 
-- 💬 Ask me about **laravel, Vue**
+- 💬 Ask me about **Machine Learning, Linux**
 
 - 📫 How to reach me **minkhantiopp@gmail.com**
 
